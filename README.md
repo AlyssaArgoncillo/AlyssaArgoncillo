@@ -96,7 +96,7 @@ kelseyshomestay.com ↗
 
 <p style="margin:0;">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-254bd0?style=flat-square&logo=typescript&logoColor=black" />
 <img src="https://img.shields.io/badge/Team_Project-2b2d42?style=flat-square" />
 <img src="https://img.shields.io/badge/Front--End-2b2d42?style=flat-square" />
 <img src="https://img.shields.io/badge/UI_Development-2b2d42?style=flat-square" />
