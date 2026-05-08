@@ -47,7 +47,7 @@ Front-End Developer with hands-on experience in API-driven web applications, ful
 <p style="margin:0 0 4px 0; font-size:16px; font-weight:700; color:#2b2d42;">BanasUno — Localized Heat Risk &amp; Health System</p>
 
 <p style="margin:0 0 10px 0; font-size:13px; color:#555;">
-Full-stack web system for localized heat risk visualization and health awareness. Led the full project: frontend, backend, database integration, and team coordination.
+🥇 Full-stack web system for localized heat risk visualization and health awareness. Led the full project: frontend, backend, database integration, and team coordination.
 </p>
 
 <p style="margin:0 0 10px 0;">
@@ -81,11 +81,11 @@ Front-End · Team Build
 </p>
 
 <p style="margin:0 0 4px 0; font-size:16px; font-weight:700; color:#2b2d42;">
-Kelsey's Homestay System
+🥈 Kelsey's Integrated Homestay System
 </p>
 
 <p style="margin:0 0 10px 0; font-size:13px; color:#555;">
-Homestay management system with booking, sales, and inventory modules. Contributed to the Sales &amp; Inventory module during V2 development.
+Homestay management system with booking, sales, and inventory modules. Part of V1 development team. Contributed to the Sales &amp; Inventory module during V2 development.
 </p>
 
 <p style="margin:0 0 10px 0;">
@@ -118,7 +118,7 @@ Front-End · API Integration
 </p>
 
 <p style="margin:0 0 4px 0; font-size:16px; font-weight:700; color:#2b2d42;">
-Dishly — Web-Based Cookbook
+🥈 Dishly — Web-Based Cookbook
 </p>
 
 <p style="margin:0 0 10px 0; font-size:13px; color:#555;">
