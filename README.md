@@ -12,7 +12,9 @@
 
 ## About
 
-Front-End Developer with hands-on experience in API-driven web applications, full-stack systems, and UI-focused interface design. I build structured, user-centered systems using React, Java, and modern web technologies — with a strong focus on usability, clarity, and functional design.
+Front-End Developer with hands-on experience in API-driven web applications and UI-focused interface design. I build structured, user-centered systems using React, Java, and modern web technologies, with a strong focus on usability, clarity, and functional design.  
+
+Currently expanding my backend development skills through full-stack academic and collaborative projects.
 
 ---
 
