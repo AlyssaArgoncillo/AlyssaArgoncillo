@@ -22,8 +22,8 @@ Currently expanding my backend development skills through full-stack academic an
 
 | Programming | Tools & Design |
 |---|---|
-| HTML · CSS · JavaScript · React | Java · C++ · Python · TypeScript | Google Colab · VS Code · Altair AI Studio |
-| MySQL | Canva · Figma |
+| HTML · CSS · JavaScript · React | Google Colab · VS Code · Altair AI Studio |
+| Java · C++ · Python · TypeScript |  MySQL · Canva · Figma |
 
 ---
 
