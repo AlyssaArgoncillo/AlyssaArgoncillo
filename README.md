@@ -2,7 +2,7 @@
 
 # Alyssa Argoncillo
 
-### Front-End Developer · CS Student · UI-Focused Systems Builder
+### FUll Stack Developer · CS Student · UI-Focused Systems Builder
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%232b2d42?style=flat-square&logo=vercel&logoColor=white)](https://alyssaargoncillo.github.io/portfolio/)
 
