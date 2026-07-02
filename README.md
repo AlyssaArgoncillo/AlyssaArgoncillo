@@ -4,7 +4,7 @@
 
 ### Full Stack Developer · CS Student · UI-Focused Systems Builder
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%232b2d42?style=flat-square&logo=vercel&logoColor=white)](https://alyssaargoncillo.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%232b2d42?style=flat-square&logo=vercel&logoColor=white)](https://argoncillo-portfolio.vercel.app/)
 
 </div>
 
@@ -178,6 +178,6 @@ I translate ideas into structured digital systems where usability and clarity dr
 
 <div align="center">
 
-**[View Portfolio →](https://alyssaargoncillo.github.io/portfolio/)**
+**[View Portfolio →](https://argoncillo-portfolio.vercel.app/)**
 
 </div>
